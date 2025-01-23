@@ -7,11 +7,23 @@
 - [ ] Week 1–4: Foundations of Python and SQL  
 Goal: Build foundational knowledge of Python and SQL while learning how to manipulate data.
 Python (6–8 hours/week)  
-[ ] Week 1: Python Basics  
-[ ] Variables  
-[ ] Data types control structures (if-else, loops), functions.
-Practice: Write scripts to calculate metrics like averages or filter datasets.
-Tools: Jupyter Notebook/Google Colab.
+  - [ ] Week 1: Python Basics  
+    - [ ] Variables  
+    - [ ] Data types
+    - [ ] Control structures (if-else, loops)  
+    - [ ] Functions  
+  - [ ] Practice: Write scripts to calculate metrics like averages or filter datasets.  
+Tools: Google Colab  
+
+  - [ ] Week 1: SQL Basics  
+    - [ ] SELECT
+    - [ ] FROM
+    - [ ] WHERE
+    - [ ] ORDER BY
+    - [ ] DISTINCT  
+  - [ ] Practice: Simple queries to filter and sort data (use SQLZoo or Mode Analytics).
+
+
 Week 2: Data Structures and Libraries
 Topics: Lists, dictionaries, sets, tuples.
 Intro to NumPy: Arrays, array operations.
