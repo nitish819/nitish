@@ -4,7 +4,7 @@
 `I got this`
 > `git status`  
 ### These are the goals that I have set for myself that I need to accomplish:
-[ ] Week 1–4: Foundations of Python and SQL  
+- [ ] Week 1–4: Foundations of Python and SQL  
 Goal: Build foundational knowledge of Python and SQL while learning how to manipulate data.
 Python (6–8 hours/week)  
 [ ] Week 1: Python Basics  
